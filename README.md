@@ -24,3 +24,7 @@ Em cenários de crédito, a acurácia global pode ser uma métrica ilusória dev
 1. Clone o repositório: `git clone https://github.com/marcosjcn94-bit/credit-scoring-model.git`
 2. Instale as dependências: `pip install -r requirements.txt`
 3. Execute o notebook principal ou script de modelagem.
+
+## Licença
+
+A [licença MIT](LICENSE) cobre exclusivamente o código-fonte e a documentação originais. Dados, imagens, PDFs, pesos de modelos e materiais de terceiros ficam fora desta licença e seguem os termos aplicáveis. A licença do notebook `analise_exploratoria.ipynb` cobre as células originais de código e texto. Os dados gerados e as saídas armazenadas ficam excluídos.
